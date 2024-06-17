@@ -557,6 +557,7 @@ header #brand img {
 }
 .home-main .card .body {
   padding: 36px 22px 0;
+  line-height: 1.6rem;
 }
 .home-main .card .body ul {
   padding-bottom: 28px;
