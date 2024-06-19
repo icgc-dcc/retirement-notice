@@ -596,7 +596,7 @@ header #brand img {
 footer {
   border-top: 1px solid #e6e6e6;
   background: #fafafa;
-  padding: 0.5rem 3rem;
+  padding: 0.5rem 1rem;
   position: relative;
   z-index: 100;
   float: right;
@@ -655,4 +655,5 @@ footer .logo img:hover {
 }
 #footer-copyright {
   align-content: flex-end;
+  margin-left: 1rem;
 }
